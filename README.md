@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Victor Sa</h1>
-- :mountain_cableway: My hobbies **Traveling & Food.**
 
 - 📫 How to reach me **sa.victor.cp@gmail.com**
 
