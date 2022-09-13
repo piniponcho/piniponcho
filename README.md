@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, I'm Victor Sa</h1>
+<h1 align="center">Hello, I'm Victor Sa</h1>
+<h3 align="center">I am a very sociable person and I love to travel and enjoy different foods from different cultures.</h3>
 
 - 📫 How to reach me **sa.victor.cp@gmail.com**
 
